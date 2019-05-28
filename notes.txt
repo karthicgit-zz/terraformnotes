@@ -1,0 +1,3 @@
+Terrafor variables:
+   If a default value is set, the variable is optional. Otherwise, the variable is required.
+  If you run terraform plan now, Terraform will prompt you for the values for unset string variables.
