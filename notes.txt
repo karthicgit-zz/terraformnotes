@@ -4,3 +4,8 @@ Terrafor variables:
   
   terraform destroy -target resourcetype.name to find this use the below comamand.
   terraform state list.
+  
+  https://www.terraform.io/docs/commands/destroy.html
+  terraform plan -destroy
+  terraform destroy -auto-approve will be used for no confirmation or prompt.Else everytime you run destroy command you have to type yes to confirm.
+  
